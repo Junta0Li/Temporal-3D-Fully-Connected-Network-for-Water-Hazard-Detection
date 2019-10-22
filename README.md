@@ -15,7 +15,7 @@ The reporsitory is still under construction :)
 The figure shows one example of water detection where red areas are water areas.
 
 ### Network Structure
-![Nerwork structure](new-struc.svg)
+![Nerwork structure](network-structure.jpg)
 The figure shows the network structure of our paper, our proposed network introduces temporal dimensions into FCN using 3D convolutional neural network which gives compariable results as [1] while reduce the time and space consumption significantly.
 
 ### Result Comparison
