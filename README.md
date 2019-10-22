@@ -11,11 +11,11 @@ DATA61 - Cyber Physical Systems, CSIRO, Canberra, Australia
 The reporsitory is still under construction :)
 
 ### Water Puddle Detection
-![Detection example](Screenshot.png)
+![Detection example](Screenshot.png)  
 The figure shows one example of water detection where red areas are water areas.
 
 ### Network Structure
-![Nerwork structure](network-structure.png)
+![Nerwork structure](network-structure.png)  
 The figure shows the network structure of our paper, our proposed network introduces temporal dimensions into FCN using 3D convolutional neural network which gives compariable results as [1] while reduce the time and space consumption significantly.
 
 ### Result Comparison
@@ -39,7 +39,7 @@ PERFORMANCE COMPARISON ON ON-ROAD DATASET
 |GMM & polar[15]       |0.31      |0.19     |0.90    |NA             |
 
 ### DICTA 2019 PAPER
-![Temporal-3D-Fully-Convolutional-Network-for-Water-Hazard-Detection][DICTA2019_Temporal_3D_fully_convolutional_network_for_water_hazard_detection.pdf]
+[Temporal-3D-Fully-Convolutional-Network-for-Water-Hazard-Detection](DICTA2019_Temporal_3D_fully_convolutional_network_for_water_hazard_detection.pdf)
 
 ### Reference
 
