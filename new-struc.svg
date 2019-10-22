@@ -1,0 +1,2623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 841.88977 1133.8583"
+   id="svg1097"
+   height="1133.8583"
+   width="841.88977"
+   version="1.1">
+  <metadata
+     id="metadata1101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="Layer1000">
+    <g
+       id="Layer1001">
+      <defs
+         id="defs13">
+        <filter
+           id="shadow1"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset2"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix4"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge10">
+            <feMergeNode
+               id="feMergeNode6"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode8"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs21">
+        <linearGradient
+           id="grad1">
+          <stop
+             id="stop15"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop17"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad2"
+           xlink:href="#grad1" />
+      </defs>
+      <path
+         id="path23"
+         style="fill:url(#grad2);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow1)"
+         d="m 158.7402,188.5039 h 36.8504 l 17.0078,-42.5196 h -70.8661 z" />
+      <defs
+         id="defs36">
+        <filter
+           id="shadow2"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset25"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix27"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge33">
+            <feMergeNode
+               id="feMergeNode29"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode31"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path38"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow2)"
+         d="m 158.7402,188.5039 h 36.8504 l 17.0078,-42.5196 h -70.8661 z" />
+    </g>
+    <text
+       id="text43"
+       y="167.24409"
+       x="160.7402">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan41"
+         font-size="8.0000">Block1</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1002">
+    <defs
+       id="defs49">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker1">
+        <polyline
+           id="polyline46"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path51"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker1)"
+       d="m 177.1654,102.0472 v 43.9371" />
+    <text
+       id="text55"
+       y="124.0157"
+       x="154.62">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan53"
+         font-size="8.0000">(8,240,320,3)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1003">
+    <g
+       id="Layer1004">
+      <defs
+         id="defs69">
+        <filter
+           id="shadow3"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset58"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix60"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge66">
+            <feMergeNode
+               id="feMergeNode62"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode64"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs77">
+        <linearGradient
+           id="grad3">
+          <stop
+             id="stop71"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop73"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad4"
+           xlink:href="#grad3" />
+      </defs>
+      <path
+         id="path79"
+         style="fill:url(#grad4);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow3)"
+         d="m 158.7402,347.2441 h 36.8504 l 17.0078,-42.5197 h -70.8661 z" />
+      <defs
+         id="defs92">
+        <filter
+           id="shadow4"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset81"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix83"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge89">
+            <feMergeNode
+               id="feMergeNode85"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode87"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path94"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow4)"
+         d="m 158.7402,347.2441 h 36.8504 l 17.0078,-42.5197 h -70.8661 z" />
+    </g>
+    <text
+       id="text99"
+       y="325.98431"
+       x="160.7402">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan97"
+         font-size="8.0000">Block2</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1005">
+    <g
+       id="Layer1006">
+      <defs
+         id="defs113">
+        <filter
+           id="shadow5"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset102"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix104"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge110">
+            <feMergeNode
+               id="feMergeNode106"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode108"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs121">
+        <linearGradient
+           id="grad5">
+          <stop
+             id="stop115"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop117"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad6"
+           xlink:href="#grad5" />
+      </defs>
+      <path
+         id="path123"
+         style="fill:url(#grad6);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow5)"
+         d="m 158.7402,496.189 h 36.8504 l 17.0078,-42.5197 h -70.8661 z" />
+      <defs
+         id="defs136">
+        <filter
+           id="shadow6"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset125"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix127"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge133">
+            <feMergeNode
+               id="feMergeNode129"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode131"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path138"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow6)"
+         d="m 158.7402,496.189 h 36.8504 l 17.0078,-42.5197 h -70.8661 z" />
+    </g>
+    <text
+       id="text143"
+       y="474.92911"
+       x="160.7402">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan141"
+         font-size="8.0000">Block3</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1007">
+    <defs
+       id="defs149">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker2">
+        <polyline
+           id="polyline146"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path151"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker2)"
+       d="M 177.1654,188.5039 V 304.7244" />
+    <text
+       id="text155"
+       y="246.6142"
+       x="152.59261">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan153"
+         font-size="8.0000">(4,120,160,64)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1008">
+    <defs
+       id="defs161">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker3">
+        <polyline
+           id="polyline158"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path163"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker3)"
+       d="M 177.1654,347.2441 V 453.6693" />
+    <text
+       id="text167"
+       y="400.4567"
+       x="154.62">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan165"
+         font-size="8.0000">(2,60,80,128)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1009">
+    <defs
+       id="defs173">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker4">
+        <polyline
+           id="polyline170"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path175"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker4)"
+       d="m 177.1654,496.189 v 35.3071" />
+    <text
+       id="text179"
+       y="513.84253"
+       x="154.62">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan177"
+         font-size="8.0000">(1,30,40,256)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1010">
+    <defs
+       id="defs185">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker5">
+        <polyline
+           id="polyline182"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path187"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker5)"
+       d="M 177.1654,574.0157 V 588.189 H 342.9921" />
+    <text
+       id="text191"
+       y="588.18903"
+       x="231.4449">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan189"
+         font-size="8.0000">(30,40,2096)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1011">
+    <g
+       id="Layer1012">
+      <defs
+         id="defs205">
+        <filter
+           id="shadow7"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset194"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix196"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge202">
+            <feMergeNode
+               id="feMergeNode198"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode200"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs213">
+        <linearGradient
+           id="grad7">
+          <stop
+             id="stop207"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop209"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad8"
+           xlink:href="#grad7" />
+      </defs>
+      <path
+         id="path215"
+         style="fill:url(#grad8);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow7)"
+         d="m 446.4567,498.8976 h 36.8504 L 500.315,456.378 h -70.8662 z" />
+      <defs
+         id="defs228">
+        <filter
+           id="shadow8"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset217"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix219"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge225">
+            <feMergeNode
+               id="feMergeNode221"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode223"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path230"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow8)"
+         d="m 446.4567,498.8976 h 36.8504 L 500.315,456.378 h -70.8662 z" />
+    </g>
+    <text
+       id="text235"
+       y="477.63779"
+       x="448.4567">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan233"
+         font-size="8.0000">Up x 2</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1013">
+    <defs
+       id="defs241">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker6">
+        <polyline
+           id="polyline238"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path243"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker6)"
+       d="m 385.5118,588.189 h 79.3701 v -89.2914" />
+    <text
+       id="text247"
+       y="583.22827"
+       x="448.8819">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan245"
+         font-size="8.0000">(30,40,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1014">
+    <defs
+       id="defs253">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker7">
+        <polyline
+           id="polyline250"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path255"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker7)"
+       d="m 279.1748,401.0394 h 21.2598 v 0.063 h 42.5575" />
+    <text
+       id="text259"
+       y="401.10239"
+       x="291.5321">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan257"
+         font-size="8.0000">(60,80,128)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1015">
+    <defs
+       id="defs265">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker8">
+        <polyline
+           id="polyline262"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path267"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker8)"
+       d="M 464.8819,148.8189 V 119.0551" />
+    <text
+       id="text271"
+       y="133.937"
+       x="445.36209">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan269"
+         font-size="8.0000">(240,320,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1016">
+    <g
+       id="Layer1017">
+      <defs
+         id="defs285">
+        <filter
+           id="shadow9"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset274"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix276"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge282">
+            <feMergeNode
+               id="feMergeNode278"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode280"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs293">
+        <linearGradient
+           id="grad9">
+          <stop
+             id="stop287"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop289"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad10"
+           xlink:href="#grad9" />
+      </defs>
+      <path
+         id="path295"
+         style="fill:url(#grad10);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow9)"
+         d="m 446.4567,191.3386 h 36.8504 l 17.0079,-42.5197 h -70.8662 z" />
+      <defs
+         id="defs308">
+        <filter
+           id="shadow10"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset297"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix299"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge305">
+            <feMergeNode
+               id="feMergeNode301"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode303"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path310"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow10)"
+         d="m 446.4567,191.3386 h 36.8504 l 17.0079,-42.5197 h -70.8662 z" />
+    </g>
+    <text
+       id="text315"
+       y="170.0787"
+       x="448.4567">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan313"
+         font-size="8.0000">Up x 2</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1018">
+    <defs
+       id="defs321">
+      <marker
+         refY="5"
+         refX="9"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="startMarker1">
+        <polyline
+           id="polyline318"
+           fill="solid"
+           points="10,0 0,5 10,10 9,5" />
+      </marker>
+    </defs>
+    <path
+       id="path323"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-start:url(#startMarker1)"
+       d="m 464.8819,191.3386 v 21.2598 h 0.2362 v 17.7638" />
+    <text
+       id="text327"
+       y="210.96851"
+       x="445.36209">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan325"
+         font-size="8.0000">(120,160,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1019">
+    <g
+       id="Layer1020">
+      <defs
+         id="defs341">
+        <filter
+           id="shadow11"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset330"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix332"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge338">
+            <feMergeNode
+               id="feMergeNode334"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode336"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs349">
+        <linearGradient
+           id="grad11">
+          <stop
+             id="stop343"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop345"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad12"
+           xlink:href="#grad11" />
+      </defs>
+      <path
+         id="path351"
+         style="fill:url(#grad12);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow11)"
+         d="m 158.7402,574.0157 h 36.8504 l 17.0078,-42.5196 h -70.8661 z" />
+      <defs
+         id="defs364">
+        <filter
+           id="shadow12"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset353"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix355"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge361">
+            <feMergeNode
+               id="feMergeNode357"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode359"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path366"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow12)"
+         d="m 158.7402,574.0157 h 36.8504 l 17.0078,-42.5196 h -70.8661 z" />
+    </g>
+    <text
+       id="text371"
+       y="552.75592"
+       x="160.7402">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan369"
+         font-size="8.0000">2D CNN</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1021">
+    <g
+       id="Layer1022">
+      <defs
+         id="defs385">
+        <filter
+           id="shadow13"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset374"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix376"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge382">
+            <feMergeNode
+               id="feMergeNode378"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode380"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs393">
+        <linearGradient
+           id="grad13">
+          <stop
+             id="stop387"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop389"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad14"
+           xlink:href="#grad13" />
+      </defs>
+      <path
+         id="path395"
+         style="fill:url(#grad14);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow13)"
+         d="M 385.5118,606.6142 V 569.7638 L 342.9921,552.7559 V 623.622 Z" />
+      <defs
+         id="defs408">
+        <filter
+           id="shadow14"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset397"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix399"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge405">
+            <feMergeNode
+               id="feMergeNode401"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode403"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path410"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow14)"
+         d="M 385.5118,606.6142 V 569.7638 L 342.9921,552.7559 V 623.622 Z" />
+    </g>
+    <text
+       id="text415"
+       transform="rotate(-90,364.252,588.189)"
+       y="588.18903"
+       x="347.82681">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan413"
+         font-size="8.0000">2D CNN</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1023">
+    <defs
+       id="defs421">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker9">
+        <polyline
+           id="polyline418"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path423"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker9)"
+       d="M 464.8819,456.378 V 416.6929" />
+    <text
+       id="text427"
+       y="436.5354"
+       x="448.8819">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan425"
+         font-size="8.0000">(60,80,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1024">
+    <g
+       id="Layer1025">
+      <defs
+         id="defs441">
+        <filter
+           id="shadow15"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset430"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix432"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge438">
+            <feMergeNode
+               id="feMergeNode434"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode436"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs449">
+        <linearGradient
+           id="grad15">
+          <stop
+             id="stop443"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop445"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad16"
+           xlink:href="#grad15" />
+      </defs>
+      <path
+         id="path451"
+         style="fill:url(#grad16);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow15)"
+         d="m 385.5118,419.5276 v -36.8504 l -42.5197,-17.0079 v 70.8661 z" />
+      <defs
+         id="defs464">
+        <filter
+           id="shadow16"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset453"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix455"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge461">
+            <feMergeNode
+               id="feMergeNode457"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode459"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path466"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow16)"
+         d="m 385.5118,419.5276 v -36.8504 l -42.5197,-17.0079 v 70.8661 z" />
+    </g>
+    <text
+       id="text471"
+       transform="rotate(-90,364.252,401.1024)"
+       y="401.10239"
+       x="347.82681">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan469"
+         font-size="8.0000">2D CNN</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1026">
+    <defs
+       id="defs477">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker10">
+        <polyline
+           id="polyline474"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path479"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker10)"
+       d="m 385.5118,401.1024 h 21.2599 v -0.7087 h 30.9448" />
+    <text
+       id="text483"
+       y="400.39371"
+       x="395.2598">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan481"
+         font-size="8.0000">(60,80,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1027">
+    <g
+       id="Layer1028">
+      <defs
+         id="defs497">
+        <filter
+           id="shadow17"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset486"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix488"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge494">
+            <feMergeNode
+               id="feMergeNode490"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode492"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs505">
+        <linearGradient
+           id="grad17">
+          <stop
+             id="stop499"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop501"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad18"
+           xlink:href="#grad17" />
+      </defs>
+      <path
+         id="path507"
+         style="fill:url(#grad18);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow17)"
+         d="m 385.5118,265.0866 v -36.8504 l -42.5197,-17.0079 v 70.8662 z" />
+      <defs
+         id="defs520">
+        <filter
+           id="shadow18"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset509"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix511"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge517">
+            <feMergeNode
+               id="feMergeNode513"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode515"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path522"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow18)"
+         d="m 385.5118,265.0866 v -36.8504 l -42.5197,-17.0079 v 70.8662 z" />
+    </g>
+    <text
+       id="text527"
+       transform="rotate(-90,364.252,246.6614)"
+       y="246.66141"
+       x="347.82681">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan525"
+         font-size="8.0000">2D CNN</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1029">
+    <defs
+       id="defs533">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker11">
+        <polyline
+           id="polyline530"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path535"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker11)"
+       d="m 279.1748,246.5512 h 21.2598 v 0.1102 h 42.5575" />
+    <text
+       id="text539"
+       y="246.66141"
+       x="289.48111">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan537"
+         font-size="8.0000">(120,160,64)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1030">
+    <defs
+       id="defs545">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker12">
+        <polyline
+           id="polyline542"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path547"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker12)"
+       d="m 385.5118,246.6614 h 52.441" />
+    <text
+       id="text551"
+       y="246.66141"
+       x="392.2124">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan549"
+         font-size="8.0000">(120,160,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1031">
+    <defs
+       id="defs565">
+      <filter
+         id="shadow19"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset554"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix556"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge562">
+          <feMergeNode
+             id="feMergeNode558"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode560"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <defs
+       id="defs573">
+      <linearGradient
+         id="grad19">
+        <stop
+           id="stop567"
+           stop-opacity="1.0000"
+           stop-color="#ffffff"
+           offset="0%" />
+        <stop
+           id="stop569"
+           stop-opacity="1.0000"
+           stop-color="#f0f0f0"
+           offset="100%" />
+      </linearGradient>
+      <linearGradient
+         gradientUnits="objectBoundingBox"
+         y2="1"
+         x2="0"
+         y1="0"
+         x1="0"
+         id="grad20"
+         xlink:href="#grad19" />
+    </defs>
+    <path
+       id="path575"
+       style="fill:url(#grad20);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow19)"
+       d="M 429.4488,119.0551 H 500.315 V 48.189 h -70.8662 z" />
+    <defs
+       id="defs588">
+      <filter
+         id="shadow20"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset577"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix579"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge585">
+          <feMergeNode
+             id="feMergeNode581"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode583"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <path
+       id="path590"
+       style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow20)"
+       d="M 429.4488,119.0551 H 500.315 V 48.189 h -70.8662 z" />
+  </g>
+  <path
+     id="path593"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,63.7795 H 500.315" />
+  <path
+     id="path595"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,77.9528 H 500.315" />
+  <path
+     id="path597"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,92.126 H 500.315" />
+  <path
+     id="path599"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,106.2992 H 500.315" />
+  <path
+     id="path601"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 486.1417,48.189 v 70.8661" />
+  <path
+     id="path603"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 471.9685,48.189 v 70.8661" />
+  <path
+     id="path605"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 457.7953,48.189 v 70.8661" />
+  <path
+     id="path607"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 443.622,48.189 v 70.8661" />
+  <path
+     id="path609"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 479.0551,48.189 v 70.8661" />
+  <path
+     id="path611"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 464.8819,48.189 v 70.8661" />
+  <path
+     id="path613"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 450.7087,48.189 v 70.8661" />
+  <path
+     id="path615"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 436.5354,48.189 v 70.8661" />
+  <path
+     id="path617"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 491.811,48.189 v 70.8661" />
+  <path
+     id="path619"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 477.6378,48.189 v 70.8661" />
+  <path
+     id="path621"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 463.4646,48.189 v 70.8661" />
+  <path
+     id="path623"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 449.2913,48.189 v 70.8661" />
+  <path
+     id="path625"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,69.4488 H 500.315" />
+  <path
+     id="path627"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,83.622 H 500.315" />
+  <path
+     id="path629"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,97.7953 H 500.315" />
+  <path
+     id="path631"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,111.9685 H 500.315" />
+  <path
+     id="path633"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,55.2756 H 500.315" />
+  <path
+     id="path635"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,69.4488 H 500.315" />
+  <path
+     id="path637"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,83.622 H 500.315" />
+  <path
+     id="path639"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 429.4488,97.7953 H 500.315" />
+  <path
+     id="path641"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 497.4803,48.189 v 70.8661" />
+  <path
+     id="path643"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 483.3071,48.189 v 70.8661" />
+  <path
+     id="path645"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 469.1339,48.189 v 70.8661" />
+  <path
+     id="path647"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 454.9606,48.189 v 70.8661" />
+  <path
+     id="path649"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 488.9764,48.189 v 70.8661" />
+  <path
+     id="path651"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 474.8031,48.189 v 70.8661" />
+  <path
+     id="path653"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 460.6299,48.189 v 70.8661" />
+  <path
+     id="path655"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 446.4567,48.189 v 70.8661" />
+  <path
+     id="path657"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 494.6457,48.189 v 70.8661" />
+  <path
+     id="path659"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 480.4724,48.189 v 70.8661" />
+  <path
+     id="path661"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 466.2992,48.189 v 70.8661" />
+  <path
+     id="path663"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 452.126,48.189 v 70.8661" />
+  <path
+     id="path665"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 483.3071,48.189 v 70.8661" />
+  <path
+     id="path667"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 469.1339,48.189 v 70.8661" />
+  <path
+     id="path669"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 454.9606,48.189 v 70.8661" />
+  <path
+     id="path671"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 440.7874,48.189 v 70.8661" />
+  <path
+     id="path673"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 474.8031,48.189 v 70.8661" />
+  <path
+     id="path675"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 460.6299,48.189 v 70.8661" />
+  <path
+     id="path677"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 446.4567,48.189 v 70.8661" />
+  <path
+     id="path679"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 432.2835,48.189 v 70.8661" />
+  <path
+     id="path681"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,100.6299 H 429.4488" />
+  <path
+     id="path683"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,86.4567 H 429.4488" />
+  <path
+     id="path685"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,72.2835 H 429.4488" />
+  <path
+     id="path687"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,58.1102 H 429.4488" />
+  <path
+     id="path689"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,117.6378 H 429.4488" />
+  <path
+     id="path691"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,103.4646 H 429.4488" />
+  <path
+     id="path693"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,89.2913 H 429.4488" />
+  <path
+     id="path695"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,75.1181 H 429.4488" />
+  <path
+     id="path697"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,94.9606 H 429.4488" />
+  <path
+     id="path699"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,80.7874 H 429.4488" />
+  <path
+     id="path701"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,66.6142 H 429.4488" />
+  <path
+     id="path703"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,52.4409 H 429.4488" />
+  <path
+     id="path705"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,114.8031 H 429.4488" />
+  <path
+     id="path707"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,100.6299 H 429.4488" />
+  <path
+     id="path709"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,86.4567 H 429.4488" />
+  <path
+     id="path711"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,72.2835 H 429.4488" />
+  <path
+     id="path713"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,103.4646 H 429.4488" />
+  <path
+     id="path715"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,89.2913 H 429.4488" />
+  <path
+     id="path717"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,75.1181 H 429.4488" />
+  <path
+     id="path719"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,60.9449 H 429.4488" />
+  <path
+     id="path721"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,109.1339 H 429.4488" />
+  <path
+     id="path723"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,94.9606 H 429.4488" />
+  <path
+     id="path725"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,80.7874 H 429.4488" />
+  <path
+     id="path727"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 500.315,66.6142 H 429.4488" />
+  <g
+     id="Layer1032">
+    <g
+       id="Layer1033">
+      <defs
+         id="defs740">
+        <filter
+           id="shadow21"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset729"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix731"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge737">
+            <feMergeNode
+               id="feMergeNode733"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode735"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs748">
+        <linearGradient
+           id="grad21">
+          <stop
+             id="stop742"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop744"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad22"
+           xlink:href="#grad21" />
+      </defs>
+      <path
+         id="path750"
+         style="fill:url(#grad22);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow21)"
+         d="m 446.4567,348.6614 h 36.8504 l 17.0079,-42.5197 h -70.8662 z" />
+      <defs
+         id="defs763">
+        <filter
+           id="shadow22"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset752"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix754"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge760">
+            <feMergeNode
+               id="feMergeNode756"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode758"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path765"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow22)"
+         d="m 446.4567,348.6614 h 36.8504 l 17.0079,-42.5197 h -70.8662 z" />
+    </g>
+    <text
+       id="text770"
+       y="327.40161"
+       x="448.4567">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan768"
+         font-size="8.0000">Up x 2</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1034">
+    <defs
+       id="defs776">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker13">
+        <polyline
+           id="polyline773"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path778"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker13)"
+       d="M 464.8819,384.0945 V 348.6614" />
+    <text
+       id="text782"
+       y="366.37799"
+       x="448.8819">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan780"
+         font-size="8.0000">(60,80,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1035">
+    <defs
+       id="defs788">
+      <marker
+         refY="5"
+         refX="1"
+         viewBox="0 0 10 10"
+         markerHeight="6"
+         markerWidth="8"
+         orient="auto"
+         markerUnits="strokeWidth"
+         id="endMarker14">
+        <polyline
+           id="polyline785"
+           fill="solid"
+           points="0,0 10,5 0,10 1,5" />
+      </marker>
+    </defs>
+    <path
+       id="path790"
+       style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker14)"
+       d="m 464.8819,306.1417 0.2362,-43.1811" />
+    <text
+       id="text794"
+       y="284.55121"
+       x="445.48019">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan792"
+         font-size="8.0000">(120,160,2)</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1036">
+    <defs
+       id="defs808">
+      <filter
+         id="shadow23"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset797"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix799"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge805">
+          <feMergeNode
+             id="feMergeNode801"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode803"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <defs
+       id="defs816">
+      <linearGradient
+         id="grad23">
+        <stop
+           id="stop810"
+           stop-opacity="1.0000"
+           stop-color="#ffffff"
+           offset="0%" />
+        <stop
+           id="stop812"
+           stop-opacity="1.0000"
+           stop-color="#f0f0f0"
+           offset="100%" />
+      </linearGradient>
+      <linearGradient
+         gradientUnits="objectBoundingBox"
+         y2="1"
+         x2="0"
+         y1="0"
+         x1="0"
+         id="grad24"
+         xlink:href="#grad23" />
+    </defs>
+    <path
+       id="path818"
+       style="fill:url(#grad24);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow23)"
+       d="m 141.7323,102.0472 h 70.8661 V 59.5276 h -70.8661 z" />
+    <defs
+       id="defs831">
+      <filter
+         id="shadow24"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset820"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix822"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge828">
+          <feMergeNode
+             id="feMergeNode824"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode826"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <path
+       id="path833"
+       style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow24)"
+       d="m 141.7323,102.0472 h 70.8661 V 59.5276 h -70.8661 z" />
+  </g>
+  <g
+     id="Layer1037">
+    <defs
+       id="defs847">
+      <filter
+         id="shadow25"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset836"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix838"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge844">
+          <feMergeNode
+             id="feMergeNode840"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode842"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <defs
+       id="defs855">
+      <linearGradient
+         id="grad25">
+        <stop
+           id="stop849"
+           stop-opacity="1.0000"
+           stop-color="#ffffff"
+           offset="0%" />
+        <stop
+           id="stop851"
+           stop-opacity="1.0000"
+           stop-color="#f0f0f0"
+           offset="100%" />
+      </linearGradient>
+      <linearGradient
+         gradientUnits="objectBoundingBox"
+         y2="1"
+         x2="0"
+         y1="0"
+         x1="0"
+         id="grad26"
+         xlink:href="#grad25" />
+    </defs>
+    <path
+       id="path857"
+       style="fill:url(#grad26);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow25)"
+       d="m 142.4409,59.5276 h 70.8662 l 7.0866,-14.1733 h -70.8661 z" />
+    <defs
+       id="defs870">
+      <filter
+         id="shadow26"
+         filterUnits="userSpaceOnUse">
+        <feOffset
+           id="feOffset859"
+           dy="1.4400"
+           dx="1.4400"
+           result="offset"
+           in="SourceGraphic" />
+        <feColorMatrix
+           id="feColorMatrix861"
+           values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+           type="matrix"
+           result="offset-color"
+           in="offset" />
+        <feMerge
+           id="feMerge867">
+          <feMergeNode
+             id="feMergeNode863"
+             in="offset-color" />
+          <feMergeNode
+             id="feMergeNode865"
+             in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <path
+       id="path872"
+       style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow26)"
+       d="m 142.4409,59.5276 h 70.8662 l 7.0866,-14.1733 h -70.8661 z" />
+  </g>
+  <path
+     id="path875"
+     style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 220.3937,45.3543 219.685,85.0394" />
+  <path
+     id="path877"
+     style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 212.5984,102.0472 219.685,85.0394" />
+  <text
+     id="text885"
+     y="73.700798"
+     x="143.7323">
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan879"
+       font-size="8.0000" />
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan881"
+       font-size="8.0000" />
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan883"
+       font-size="8.0000">Input video</tspan>
+  </text>
+  <text
+     id="text889"
+     y="82.503899"
+     x="125.937">
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan887"
+       font-size="8.0000">240</tspan>
+  </text>
+  <text
+     id="text893"
+     y="65.196899"
+     x="163.5748">
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan891"
+       font-size="8.0000">320</tspan>
+  </text>
+  <text
+     id="text897"
+     y="51.354301"
+     x="135.2283">
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan895"
+       font-size="8.0000">8</tspan>
+  </text>
+  <text
+     id="text901"
+     y="65.196899"
+     x="142.9449">
+    <tspan
+       style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+       id="tspan899"
+       font-size="8.0000">3</tspan>
+  </text>
+  <path
+     id="path903"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="M 154.4882,60.9449 V 72.2835" />
+  <path
+     id="path905"
+     style="fill:none;stroke:#404040;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+     d="m 143.1496,72.2835 h 11.3386" />
+  <g
+     id="Layer1038">
+    <g
+       id="Layer1039">
+      <defs
+         id="defs918">
+        <filter
+           id="shadow27"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset907"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix909"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge915">
+            <feMergeNode
+               id="feMergeNode911"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode913"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs926">
+        <linearGradient
+           id="grad27">
+          <stop
+             id="stop920"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop922"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad28"
+           xlink:href="#grad27" />
+      </defs>
+      <path
+         id="path928"
+         style="fill:url(#grad28);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow27)"
+         d="m 437.9528,262.9606 h 54.3307 v -32.5984 h -54.3307 z" />
+      <defs
+         id="defs941">
+        <filter
+           id="shadow28"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset930"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix932"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge938">
+            <feMergeNode
+               id="feMergeNode934"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode936"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path943"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow28)"
+         d="m 437.9528,262.9606 h 54.3307 v -32.5984 h -54.3307 z" />
+    </g>
+    <text
+       id="text948"
+       y="246.66141"
+       x="439.95279">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan946"
+         font-size="8.0000">Add</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1040">
+    <g
+       id="Layer1041">
+      <defs
+         id="defs962">
+        <filter
+           id="shadow29"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset951"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix953"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge959">
+            <feMergeNode
+               id="feMergeNode955"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode957"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs970">
+        <linearGradient
+           id="grad29">
+          <stop
+             id="stop964"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop966"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad30"
+           xlink:href="#grad29" />
+      </defs>
+      <path
+         id="path972"
+         style="fill:url(#grad30);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow29)"
+         d="m 437.7165,416.6929 h 54.3307 v -32.5984 h -54.3307 z" />
+      <defs
+         id="defs985">
+        <filter
+           id="shadow30"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset974"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix976"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge982">
+            <feMergeNode
+               id="feMergeNode978"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode980"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path987"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow30)"
+         d="m 437.7165,416.6929 h 54.3307 v -32.5984 h -54.3307 z" />
+    </g>
+    <text
+       id="text992"
+       y="400.39371"
+       x="439.71649">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan990"
+         font-size="8.0000">Add</tspan>
+    </text>
+  </g>
+  <g
+     id="Layer1042">
+    <g
+       id="Layer1043">
+      <defs
+         id="defs1006">
+        <filter
+           id="shadow31"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset995"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix997"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge1003">
+            <feMergeNode
+               id="feMergeNode999"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode1001"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs1014">
+        <linearGradient
+           id="grad31">
+          <stop
+             id="stop1008"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop1010"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad32"
+           xlink:href="#grad31" />
+      </defs>
+      <path
+         id="path1016"
+         style="fill:url(#grad32);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow31)"
+         d="m 279.1748,273.7165 v -54.3307 h -32.5984 v 54.3307 z" />
+      <defs
+         id="defs1029">
+        <filter
+           id="shadow32"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset1018"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix1020"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge1026">
+            <feMergeNode
+               id="feMergeNode1022"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode1024"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path1031"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow32)"
+         d="m 279.1748,273.7165 v -54.3307 h -32.5984 v 54.3307 z" />
+    </g>
+    <text
+       id="text1036"
+       transform="rotate(-90,262.8756,246.5512)"
+       y="246.55119"
+       x="237.71021">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan1034"
+         font-size="8.0000">Temperal pooling</tspan>
+    </text>
+  </g>
+  <defs
+     id="defs1042">
+    <marker
+       refY="5"
+       refX="1"
+       viewBox="0 0 10 10"
+       markerHeight="6"
+       markerWidth="8"
+       orient="auto"
+       markerUnits="strokeWidth"
+       id="endMarker15">
+      <polyline
+         id="polyline1039"
+         fill="solid"
+         points="0,0 10,5 0,10 1,5" />
+    </marker>
+  </defs>
+  <path
+     id="path1044"
+     style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker15)"
+     d="m 198.4252,246.6142 h 21.2598 v -0.063 h 26.8914" />
+  <g
+     id="Layer1044">
+    <g
+       id="Layer1045">
+      <defs
+         id="defs1057">
+        <filter
+           id="shadow33"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset1046"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix1048"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge1054">
+            <feMergeNode
+               id="feMergeNode1050"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode1052"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <defs
+         id="defs1065">
+        <linearGradient
+           id="grad33">
+          <stop
+             id="stop1059"
+             stop-opacity="1.0000"
+             stop-color="#ffffff"
+             offset="0%" />
+          <stop
+             id="stop1061"
+             stop-opacity="1.0000"
+             stop-color="#f0f0f0"
+             offset="100%" />
+        </linearGradient>
+        <linearGradient
+           gradientUnits="objectBoundingBox"
+           y2="1"
+           x2="0"
+           y1="0"
+           x1="0"
+           id="grad34"
+           xlink:href="#grad33" />
+      </defs>
+      <path
+         id="path1067"
+         style="fill:url(#grad34);fill-rule:evenodd;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;filter:url(#shadow33)"
+         d="M 279.1748,428.2047 V 373.874 h -32.5984 v 54.3307 z" />
+      <defs
+         id="defs1080">
+        <filter
+           id="shadow34"
+           filterUnits="userSpaceOnUse">
+          <feOffset
+             id="feOffset1069"
+             dy="1.4400"
+             dx="1.4400"
+             result="offset"
+             in="SourceGraphic" />
+          <feColorMatrix
+             id="feColorMatrix1071"
+             values="0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0 0.8039 0 0 0 0.4980 0"
+             type="matrix"
+             result="offset-color"
+             in="offset" />
+          <feMerge
+             id="feMerge1077">
+            <feMergeNode
+               id="feMergeNode1073"
+               in="offset-color" />
+            <feMergeNode
+               id="feMergeNode1075"
+               in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <path
+         id="path1082"
+         style="fill:none;stroke:#404040;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;filter:url(#shadow34)"
+         d="M 279.1748,428.2047 V 373.874 h -32.5984 v 54.3307 z" />
+    </g>
+    <text
+       id="text1087"
+       transform="rotate(-90,262.8756,401.0394)"
+       y="401.0394"
+       x="237.71021">
+      <tspan
+         style="font-size:8px;font-family:Calibri;fill:#000000;fill-opacity:1;stroke-opacity:1"
+         id="tspan1085"
+         font-size="8.0000">Temperal pooling</tspan>
+    </text>
+  </g>
+  <defs
+     id="defs1093">
+    <marker
+       refY="5"
+       refX="1"
+       viewBox="0 0 10 10"
+       markerHeight="6"
+       markerWidth="8"
+       orient="auto"
+       markerUnits="strokeWidth"
+       id="endMarker16">
+      <polyline
+         id="polyline1090"
+         fill="solid"
+         points="0,0 10,5 0,10 1,5" />
+    </marker>
+  </defs>
+  <path
+     id="path1095"
+     style="fill:none;stroke:#404040;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#endMarker16)"
+     d="m 198.4252,401.1024 h 21.2598 v -0.063 h 26.8914" />
+</svg>
