@@ -1,5 +1,5 @@
 # Temporal-3D-Fully-Convolutional-Network-for-Water-Hazard-Detection
-## DICTA 2019  
+DICTA 2019  
 
 Juntao Li^1  
 College of Engineering and Computer Science, The Australian National University  
