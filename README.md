@@ -11,7 +11,8 @@ DATA61 - Cyber Physical Systems, CSIRO, Canberra, Australia
 The reporsitory is still under construction :)
 
 ### Water Puddle Detection
-![Detection example](Screenshot.png)  
+![Detection example1](Screenshot1.png)
+![Detection example2](Screenshot2.png)  
 The figure shows one example of water detection where red areas are water areas.
 
 ### Network Structure
