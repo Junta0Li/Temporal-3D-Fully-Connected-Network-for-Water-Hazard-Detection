@@ -40,7 +40,7 @@ PERFORMANCE COMPARISON ON ON-ROAD DATASET
 |GMM & polar[15]       |0.31      |0.19     |0.90    |NA             |
 
 ### DICTA 2019 PAPER
-[Temporal-3D-Fully-Convolutional-Network-for-Water-Hazard-Detection](DICTA2019_Temporal_3D_fully_convolutional_network_for_water_hazard_detection.pdf)
+https://ieeexplore.ieee.org/document/8945849
 
 ### Reference
 
